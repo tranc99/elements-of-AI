@@ -11,3 +11,4 @@ N = [
     {f, g}
 ]
 print(N)
+b in N[a]
